@@ -18,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/Jqnxyz/nric-tools-js/issues"
   },
-  "homepage": "https://github.com/Jqnxyz/nric-tools-js#readme"
+  "homepage": "https://github.com/Jqnxyz/nric-tools-js#readme",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
