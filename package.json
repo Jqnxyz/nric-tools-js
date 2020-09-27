@@ -1,5 +1,5 @@
 {
-  "name": "Jqnxyz@nric-tools",
+  "name": "@Jqnxyz/nric-tools",
   "version": "1.0.2",
   "description": "Tool to verify Singapore NRICs",
   "main": "index.js",
