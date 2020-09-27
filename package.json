@@ -1,6 +1,6 @@
 {
   "name": "Jqnxyz@nric-tools",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Tool to verify Singapore NRICs",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,7 @@
     "url": "https://github.com/Jqnxyz/nric-tools-js/issues"
   },
   "homepage": "https://github.com/Jqnxyz/nric-tools-js#readme",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }
