@@ -1,6 +1,6 @@
 {
   "name": "@Jqnxyz/nric-tools",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Tool to verify Singapore NRICs",
   "main": "index.js",
   "scripts": {
